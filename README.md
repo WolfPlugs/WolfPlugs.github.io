@@ -22,5 +22,6 @@
 | :--------         | :------- | :-------------------------------- |
 | `Global Badges`   | [Copy This Link](https://plugins.obamabot.me/vendetta-plugins/globalBadges/) | Add badges from other clients to your profile or other users' profiles. |
 | `Osu! Stats`   | [Copy This Link](https://plugins.obamabot.me/vendetta-plugins/osu/) | Check someone stats or recent games they have played. |
+| `petPet`   | [Copy This Link](https://plugins.obamabot.me/vendetta-plugins/petpet/) | pet someone P. |
 
 ---
