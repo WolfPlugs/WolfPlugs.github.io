@@ -4,7 +4,7 @@
 | Name              | Download Links     | Description                |
 | :--------         | :------- | :------------------------- |
 | `Global Badges`   | [Download](https://github.com/WolfPlugs/GlobalBadges) |Shows users awesome profile badges on their profile page. |
-
+| `Holy Notes`   | [Download](https://github.com/WolfPlugs/HolyNotes) |This plugin allows you to save messages like your own pin and u can create multiple pages to save more messages. |
 
 ---
 
